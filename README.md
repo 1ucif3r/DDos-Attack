@@ -10,3 +10,4 @@ git clone https://github.com/1ucif3r/DDos-Attack
 cd DDos-Attack
 chmod +x ddos-attack.py
 python ddos-attack.py
+cscassd
